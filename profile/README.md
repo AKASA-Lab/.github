@@ -1,8 +1,6 @@
 <div align="center">
 
-## Smart Aeroponics System
-
-**Controlled cultivation · Plant imaging · Data-driven analysis**
+# Smart Aeroponics System
 
 </div>
 
@@ -20,7 +18,11 @@ We are investigating how nutrient deficiencies develop and appear over time in f
 ## Experimental setup
 
 
-![Photograph of the indoor aeroponic testbed available in this repository](assets/testbed-setup.jpeg)
+<p align="center">
+  <img src="assets/testbed-setup.jpeg" width="220" alt="Indoor aeroponic testbed, side view">
+  <img src="assets/frontsetup.jpeg" width="220" alt="Indoor aeroponic testbed, front view">
+  <img src="assets/closeup.jpeg" width="220" alt="Close-up of aeroponic grow containers">
+</p>
 
 ## Dataset and analysis
 
@@ -31,7 +33,7 @@ The intended dataset will organize plant images by treatment and capture time, a
 - **Temporal analysis:** study how visible symptoms change across successive observations.
 - **Edge deployment:** work toward running a deficiency-identification model locally on an edge device. This is a future objective, not a currently documented capability.
 
-Dataset, model, and detection performance have been documented in this organization.
+Dataset, model, and detection performance have not yet been documented in this organization.
 
 ## Research direction
 
